@@ -1,0 +1,8 @@
+.title {font-size: x-large;font-weight: bold;font-family: 'Courier New', Courier, monospace;background-color: bisque;}
+.taco {background-color: burlywood;font-size: medium;font-weight: normal;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: hotpink;}
+.drink {background-color: cadetblue;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: coral;}
+.ice-cream {background-color: aqua;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: darkgoldenrod;}
+* {background-color: green;}
+.drink-img {width: 200px;height: auto;}
+.taco-img {width: 200px;height: auto;}
+.ice-cream-img {width: 200px;height: auto;}
